@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "oxlint",
-    "preview": "vite preview --host 0.0.0.0 --port $PORTs "
+    "preview": "vite preview --host 0.0.0.0 --port $PORT"
   },
   "dependencies": {
     "install": "^0.13.0",
